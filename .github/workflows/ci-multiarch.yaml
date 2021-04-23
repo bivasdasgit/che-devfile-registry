@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: EPL-2.0
 #
 
-name: Release Che Devfile Registry
+name: Release Che Devfile Registry using CI_MultiArch
 
 on:
   workflow_dispatch:
